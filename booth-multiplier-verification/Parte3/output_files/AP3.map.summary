@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 17 05:32:59 2025
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Standard Edition
+Revision Name : AP3
+Top-level Entity Name : multipli_segmentado
+Family : Cyclone IV E
+Total logic elements : 795
+    Total combinational functions : 745
+    Dedicated logic registers : 157
+Total registers : 157
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 20
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

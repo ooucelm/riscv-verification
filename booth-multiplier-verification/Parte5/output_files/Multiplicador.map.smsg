@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at banco_prueba_multipli.sv(3): object "A" differs only in case from object "a" in the same scope File: W:/ISDIGI/TAREA2/banco_prueba_multipli.sv Line: 3
+Info (10281): Verilog HDL Declaration information at banco_prueba_multipli.sv(3): object "B" differs only in case from object "b" in the same scope File: W:/ISDIGI/TAREA2/banco_prueba_multipli.sv Line: 3

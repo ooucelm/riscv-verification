@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Nov 16 21:48:48 2025
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Standard Edition
+Revision Name : AP2
+Top-level Entity Name : multipli
+Family : Cyclone IV E
+Total logic elements : 150
+    Total combinational functions : 141
+    Dedicated logic registers : 42
+Total registers : 42
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

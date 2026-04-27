@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Nov 17 05:59:26 2025
+Quartus Prime Version : 17.1.1 Internal Build 593 12/11/2017 SJ Standard Edition
+Revision Name : Multiplicador
+Top-level Entity Name : banco_prueba_multipli
+Family : Cyclone IV E
+Total logic elements : 158
+    Total combinational functions : 151
+    Dedicated logic registers : 69
+Total registers : 69
+Total pins : 60
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
